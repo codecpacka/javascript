@@ -1,4 +1,4 @@
-# JavaScript
+# Awesome JavaScript Newsletters
 
 ![Accepting PRs for Issue](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fthe-newsletters%2Fjavascript%2Fmaster%2Fcurrent_issue.json) ![Day of Issue](https://img.shields.io/badge/Day%20of%20Issue-Monday-yellow)
 
